@@ -1,11 +1,11 @@
-# 🕵️‍♂️ Anomaly Detection in Highly Imbalanced Transactional Data
+# Anomaly Detection in Highly Imbalanced Transactional Data
 
 This project focuses on detecting fraudulent transactions in a highly imbalanced credit card dataset using various machine learning algorithms. It includes comprehensive exploratory data analysis (EDA), data preprocessing, model training, and evaluation techniques to build a robust fraud detection pipeline.
 
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **Records**: 284,807 transactions
 - **Fraud Cases**: 492 (~0.17%)
