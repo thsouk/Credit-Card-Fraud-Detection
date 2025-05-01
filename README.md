@@ -59,8 +59,6 @@ Given the imbalanced nature of the data, we evaluated models using metrics that 
 - **Precision-Recall Curve**
 - **Cross-Validation Accuracy**
 
-> Accuracy is misleading in imbalanced datasets; focus is on **Recall** and **Precision** to minimize false negatives and false positives.
-
 ---
 
 ## Results Summary
