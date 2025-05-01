@@ -38,7 +38,7 @@ Future expansion:
 
 ---
 
-## ⚖Handling Class Imbalance
+## Handling Class Imbalance
 
 Due to the severe class imbalance, several resampling techniques were applied:
 
